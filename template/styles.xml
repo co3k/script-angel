@@ -40,7 +40,7 @@
       <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="9.0pt" fo:font-size="9.0pt"/>
     </style:style>
     <style:style style:name="base-togaki" style:family="paragraph">
-      <style:paragraph-properties fo:text-align="start" fo:margin-left="2.256cm" fo:margin-right="0cm" fo:text-indent="0cm" style:vertical-align="middle"/>
+      <style:paragraph-properties fo:text-align="start" fo:margin-left="2.256cm" fo:margin-right="0cm" fo:text-indent="0.404cm" style:vertical-align="middle"/>
       <style:text-properties fo:letter-spacing="0.003cm" style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="8.0pt" fo:font-size="8.0pt"/>
     </style:style>
 
